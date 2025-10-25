@@ -1,3 +1,12 @@
-/* TODO (optional): Define styles for dark mode */
+.button-light {
+  background-color: #f0f0f0;
+  color: #333;
+  border: 1px solid #ccc;
+}
 
-/* TODO (optional): Ensure text and background colors adjust for dark mode */
+
+.button-dark {
+  background-color: #333;
+  color: #f0f0f0;
+  border: 1px solid #666;
+}
